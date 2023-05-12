@@ -7,7 +7,7 @@ Data used for exploratory data analysis and for model building is included in th
 
 The script to build the best performing and most stable model is included as a .py file.
 
-The process was carried out as follows:
+The project was carried out as follows:
 - Conducted exploratory data analysis of the dataset with Tableau and Python, to understand the correlation between predictor and target variables
 - Carried out methods of feature selection to create groups of feature sets to use in model building
 - Built models to predict water quality using a basis of logistic regression models with techniques such as variable scaling and stacking
